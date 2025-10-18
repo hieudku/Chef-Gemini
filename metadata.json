@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Recipe Generator",
+  "description": "Generate creative recipes based on the ingredients you have on hand. Specify dietary restrictions, cuisine types, and meal preferences to get the perfect recipe.",
+  "requestFramePermissions": []
+}
